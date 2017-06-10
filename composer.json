@@ -1,12 +1,15 @@
 {
     "name": "patternbuilder/pattern-kit-starter",
     "require": {
-        "pattern-builder/pattern-kit": "dev-master"
+        "pattern-builder/pattern-kit": "dev-develop"
+    },
+    "scripts": {
+        "server": "php -S localhost:8000"
     },
     "repositories": [
       {
         "type": "vcs",
-        "url": "https://github.com/PatternBuilder/pattern-kit"
+        "url": "https://github.com/sghoweri/pattern-kit"
       }
     ]
 }
