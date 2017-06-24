@@ -25,7 +25,9 @@
         "maxItems": 4,
         "items": {
           "oneOf": [
+            
             {"$ref": "image.json"},
+            
             {"$ref": "quote.json"}
           ]
         }

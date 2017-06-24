@@ -1,10 +1,21 @@
 title: Pattern Kit
 
+# paths:
+#   data:
+#     - src/data
+#   schemas:
+#     - src/schemas
+#   templates:
+#     - src/templates
+#   docs:
+#     - src/docs
+#   sg:
+#     - src/styleguide
 paths:
   data:
     - src/data
   schemas:
-    - src/schemas
+    - src
   templates:
     - src/templates
   docs:

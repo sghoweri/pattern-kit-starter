@@ -4,6 +4,7 @@
     "category": "component",
     "type": "object",
     "format": "grid",
+    "id": "image.json",
     "properties": {
       "name": {
         "type": "string",
